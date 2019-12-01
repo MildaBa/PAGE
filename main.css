@@ -1,0 +1,57 @@
+body {
+  padding-top: 20px;
+}
+
+
+img {
+  width: 800px;
+  padding-bottom: 0px;
+}
+
+div {
+  padding-top: 10px;
+  padding-bottom: none;
+  margin: 0px;
+  font-size: 25px;
+  font-family: arial;
+  font-style: normal;
+  font-weight: normal;
+}
+
+a {
+  font-size: 55px;
+  align-items:
+
+}
+
+
+.dropdown-menu {
+  box-shadow: none;
+  border: none;
+  background-color: transparent;
+  padding-left:
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.navbar {
+    padding: .8rem 24rem;
+    margin-bottom: 40px
+  }
+
+  .dropdown-toggle::after {
+    vertical-align: 0em;
+    display: contents;
+  }
+
+  .dropdown-item {
+    font-size: 18px;
+    padding-left: 2em;
+  }
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .9em;
+    padding-left: .6em;
+  }

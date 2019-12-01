@@ -1,0 +1,117 @@
+body {
+  padding-top: 20px;
+}
+
+
+img {
+  width: 800px;
+  padding-bottom: 20px;
+}
+
+div {
+  padding-top: 10px;
+  padding-bottom: none;
+  margin: 0px;
+  font-size: 25px;
+  font-family: arial;
+  font-style: normal;
+  font-weight: normal;
+}
+
+body {
+  background-color: white;
+}
+h3 {
+  color: black;
+  font-style: normal;
+  font-family: arial;
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 60px;
+}
+
+p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+  padding-right: 860px;
+  text-align: justify;
+}
+
+a {
+  font-family: arial;
+  font-size: 55px;
+  color: black;
+  padding-left: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.dropdown-menu {
+  box-shadow: none;
+  border: none;
+  background-color: transparent;
+  padding-left:
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.navbar {
+    padding: .8rem 24rem;
+    margin-bottom: 40px
+  }
+
+  .dropdown-toggle::after {
+    vertical-align: 0em;
+    display: contents;
+  }
+
+  .dropdown-item {
+    font-size: 18px;
+    padding-left: 2em;
+  }
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .9em;
+    padding-left: .6em;
+  }
+
+  .link2:link {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+  }
+
+#social-buttons {
+  margin-top: 50px;
+  padding-left: 60px;
+}
+
+.btn-facebook {
+  background-color: black;
+  border-color: grey;
+  color: white;
+}
+
+.btn-pinterest {
+  background-color: black;
+  border-color: grey;
+  color: white;
+}
+
+.btn-lg {
+    padding: 0px 16px;
+    font-size: 15px;
+    line-height: 1.33;
+    border-radius: 6px;
+    display: inline-block;
+
+
+.dropdown-menu {
+  box-shadow: none;
+  border: none;
+  background-color: transparent;
+}
